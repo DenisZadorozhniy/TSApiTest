@@ -1,0 +1,7 @@
+{
+    "webSite" : "https://jsonplaceholder.typicode.com",
+    "posts" : "/posts",
+    "specificPost" : "/posts/",
+    "users" : "/users",
+    "specificUser" : "/users/"
+}
