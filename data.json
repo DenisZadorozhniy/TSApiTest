@@ -1,0 +1,10 @@
+{
+    "expectedStatusCode_200" : 200,
+    "expectedContentType" : "json",
+    "expectedUserId" : 10,
+    "expectedId" : 99,
+    "numberOfSpecificPost_99" : 99,
+    "numberOfSpecificPost_150" : 150,
+    "specificUserIdForPostMethod" : 1,
+    "specificUser" : 5
+}
